@@ -1,0 +1,3 @@
+﻿  operator overload.cpp
+c:\users\dimad\source\repos\operator overload\operator overload\complex.h(25): warning C4715: operator==: значение возвращается не при всех путях выполнения
+  operator overload.vcxproj -> C:\Users\dimad\source\repos\operator overload\Debug\operator overload.exe
